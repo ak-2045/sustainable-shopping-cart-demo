@@ -15,7 +15,7 @@ A simple demo project that helps shoppers make eco-friendly choices by showing t
 - **Package Manager**: pnpm
 - **Deployment**: Netlify
 - **State Management**: React `useState`, `useEffect`
-- **Icons**: (Optional) If you're using any library like Heroicons or Lucide, let me know
+- **Icons**: Lucide
 
 ---
 
