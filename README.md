@@ -3,7 +3,7 @@
 A simple demo project that helps shoppers make eco-friendly choices by showing the carbon footprint of products — and suggesting greener alternatives.
 
 **Live Demo**: [sustainable-shopping-cart-demo.netlify.app](https://sustainable-shopping-cart-demo.netlify.app)  
-**Built by**: Akmal Hossain
+**Built by**: Akmal Hossain, Srishant Kumar
 
 ---
 
